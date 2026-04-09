@@ -7,7 +7,11 @@ So i cloned it and started working on it, i just kept working and finessing till
 You might be asking "But just use bsnes", fair point, but i kinda didnt know about it so i dont know. <br>
 I will proably use bsnes, i dont have good documentation but this is more like a test project i did for fun on a wednesday night.
 <br><br>
+# USAGE
+It's precompiled so just install root/libretro/and the core into retroarch, idk if it works on windows/linux, i mainly built the retroarch core. Feel free to try though.
+<br><br>
 # DISCLAIMER
+I havent tried it on anything other than a mac with retroarch so thats something to take note of. If you want you can test, pull request but dont pester me with issues.
 This project is not supported by the snes9x devs, this is a fanmade project made for fun <br>
 <b>DO NOT USE THIS IF YOU JUST WANT TO PLAY SNES, ITS NOT GOOD</b>
 <br> 
