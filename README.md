@@ -1,6 +1,6 @@
 # SNes99X
 A unofficial fork of Snes9x - Portable Super Nintendo Entertainment System (TM) emulator that focuses on accuracy rather than compatibility <br> First emulator project :)
-<br> Passes all http://blargg.8bitalley.com/parodius/snes-tests/ (site needs waybackmachine, as its not up right now. will proably add to repo sooner or later) cputests and spctests, when something as snes9x fails more than a handful
+<br> Passes all http://blargg.8bitalley.com/parodius/snes-tests/ (site needs waybackmachine, as its not up right now. will proably add to repo sooner or later) cputests and spctests, while something like snes9x fails more than a handful
 <br> <br>
 # Info (Why i did this)
 I was mad. one of the most used SNES emulators (snes9x) is inaccurate. My ADHD brain couldnt be at peace with that. It's probably fine for play, i suppose, but i ran a accuracy test and it failed so hard. <br>
