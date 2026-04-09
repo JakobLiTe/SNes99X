@@ -1,0 +1,28 @@
+0;5u≈0;5u9;5u0;5u0;5uX0;5uu9;5uuuç≈0;5u0;5u[INFO] === Build =======================================
+[INFO] CPU Model Name: Apple M2 Max
+[INFO] Capabilities: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.22.2
+[INFO] Built: Nov 20 2025
+[INFO] =================================================
+[INFO] [Input] Found input driver: "cocoa".
+[ERROR] [Core] Failed to open libretro core: "/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib"
+[ERROR] [Core] Error(s): dlopen(/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib, 0x0005): tried: '/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64')), '/System/Volumes/Preboot/Cryptexes/OS/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (no such file), '/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64'))
+[INFO] [Core] Loading dynamic libretro core from: "/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib".
+[ERROR] [Core] Failed to open libretro core: "/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib"
+Error(s): dlopen(/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib, 0x0005): tried: '/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64')), '/System/Volumes/Preboot/Cryptexes/OS/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (no such file), '/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64'))
+[INFO] [Core] Unloading core symbols...
+[INFO] [Config] Saved config to "/Users/jakoblienteigland/Library/Application Support/RetroArch/config/retroarch.cfg".
+[INFO] === Build =======================================
+[INFO] CPU Model Name: Apple M2 Max
+[INFO] Capabilities: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.22.2
+[INFO] Built: Nov 20 2025
+[INFO] =================================================
+[INFO] [Input] Found input driver: "cocoa".
+[ERROR] [Core] Failed to open libretro core: "/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib"
+[ERROR] [Core] Error(s): dlopen(/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib, 0x0005): tried: '/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64')), '/System/Volumes/Preboot/Cryptexes/OS/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (no such file), '/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64'))
+[INFO] [Core] Loading dynamic libretro core from: "/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib".
+[ERROR] [Core] Failed to open libretro core: "/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib"
+Error(s): dlopen(/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib, 0x0005): tried: '/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64')), '/System/Volumes/Preboot/Cryptexes/OS/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (no such file), '/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib' (mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64'))
+[INFO] [Core] Unloading core symbols...
+[INFO] [Config] Saved config to "/Users/jakoblienteigland/Library/Application Support/RetroArch/config/retroarch.cfg".

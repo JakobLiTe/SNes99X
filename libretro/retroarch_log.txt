@@ -1,0 +1,207 @@
+[INFO] === Build =======================================
+[INFO] CPU Model Name: Apple M2 Max
+[INFO] Capabilities: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.22.2
+[INFO] Built: Nov 20 2025
+[INFO] =================================================
+[INFO] [Input] Found input driver: "cocoa".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[INFO] [Core] Loading dynamic libretro core from: "/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib".
+[INFO] [Override] Redirecting save file to "/Users/jakoblienteigland/Documents/RetroArch/saves/Snes9x/cputest-full.srm".
+[INFO] [Override] Redirecting save state to "/Users/jakoblienteigland/Documents/RetroArch/states/Snes9x/cputest-full.state".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[INFO] [Environ] GET_CORE_OPTIONS_VERSION.
+[INFO] [Environ] GET_LANGUAGE: "0".
+[INFO] [Environ] SET_CORE_OPTIONS_INTL.
+[INFO] [Environ] SET_CONTROLLER_INFO.
+[INFO] [Environ] GET_LOG_INTERFACE.
+[INFO] [Environ] GET_SYSTEM_DIRECTORY: "/Users/jakoblienteigland/Documents/RetroArch/system".
+[INFO] [Environ] GET_SAVE_DIRECTORY: "/Users/jakoblienteigland/Documents/RetroArch/saves/Snes9x".
+[INFO] [Environ] SET_SUPPORT_ACHIEVEMENTS: yes.
+[INFO] [Environ] SET_PERFORMANCE_LEVEL: 12.
+[INFO] [Content] Loading content file: "/Users/jakoblienteigland/Downloads/snes-tests/cputest/cputest-full.sfc".
+[INFO] [Environ] SET_INPUT_DESCRIPTORS.
+[libretro INFO] "65C816 TEST" (NTSC) version 1.0
+ROM: LoROM: 2 Mbit, SRAM: 0 Kbit
+ID: , CRC32: 31ff7f92, Invalid Checksum
+[INFO] [Environ] SET_PIXEL_FORMAT: RGB565.
+[INFO] [SRAM] Skipping SRAM load.
+[INFO] [Core] Version of libretro API: 1, Compiled against API: 1
+[INFO] [Core] Geometry: 256x224, Aspect: 1.333, FPS: 60.10, Sample rate: 32040.00 Hz.
+[INFO] [Video] Set video size to: 897x672.
+[INFO] [GL] Found GL context: "cocoagl".
+[INFO] [GL] Detecting screen resolution: 960x720.
+[INFO] [GL] Vendor: Apple, Renderer: Apple M2 Max.
+[INFO] [GL] Version: 2.1 Metal - 90.5.
+[INFO] [GL] Using resolution 1794x1344.
+[INFO] [GL] Default shader backend found: glsl.
+[INFO] [GL] Using GLSL shader backend.
+[INFO] [GLSL] Checking GLSL shader support...
+[WARN] [GLSL] Stock GLSL shaders will be used.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GL] Using 4 textures.
+[INFO] [GL] Loaded 1 program(s).
+[INFO] [Video] Graphics driver did not initialize an input driver. Attempting to pick a suitable driver.
+[INFO] [Input] Found HID driver: "iohidmanager".
+[INFO] [Input] Found joypad driver: "hid".
+[INFO] [Video] Stored original display mode for restoration
+[INFO] [Video] Found display server: "apple".
+[INFO] [Audio] Set audio input rate to: 31987.32 Hz.
+[INFO] [CoreAudio] Using output sample rate of 48000.0 Hz.
+[INFO] [CoreAudio] Using buffer size of 24576 bytes: (latency = 64 ms).
+[INFO] [Audio] Started synchronous audio driver.
+[INFO] [Display] Found display driver: "gl".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[INFO] [Config] Saved config to "/Users/jakoblienteigland/Library/Application Support/RetroArch/config/retroarch.cfg".
+[INFO] [Playlist] Loading favorites file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_favorites.lpl".
+[INFO] [Playlist] Loading history file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_history.lpl".
+[INFO] [Playlist] Loading history file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_image_history.lpl".
+[INFO] [Playlist] Loading history file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_music_history.lpl".
+[INFO] [Playlist] Written to file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_history.lpl".
+[INFO] [NS] starting draw observer
+[INFO] [Environ] SET_GEOMETRY.
+[INFO] [Video] Set video size to: 897x672.
+[INFO] [GL] Found GL context: "cocoagl".
+[INFO] [GL] Detecting screen resolution: 1794x1344.
+[INFO] [GL] Vendor: Apple, Renderer: Apple M2 Max.
+[INFO] [GL] Version: 2.1 Metal - 90.5.
+[INFO] [GL] Using resolution 1794x1344.
+[INFO] [GL] Default shader backend found: glsl.
+[INFO] [GL] Using GLSL shader backend.
+[INFO] [GLSL] Checking GLSL shader support...
+[WARN] [GLSL] Stock GLSL shaders will be used.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GL] Using 4 textures.
+[INFO] [GL] Loaded 1 program(s).
+[INFO] [Video] Graphics driver did not initialize an input driver. Attempting to pick a suitable driver.
+[INFO] [Input] Found HID driver: "iohidmanager".
+[INFO] [Input] Found joypad driver: "hid".
+[INFO] [Audio] Set audio input rate to: 31987.32 Hz.
+[INFO] [CoreAudio] Using output sample rate of 48000.0 Hz.
+[INFO] [CoreAudio] Using buffer size of 24576 bytes: (latency = 64 ms).
+[INFO] [Audio] Started synchronous audio driver.
+[INFO] [Display] Found display driver: "gl".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[INFO] [Config] Saved config to "/Users/jakoblienteigland/Library/Application Support/RetroArch/config/retroarch.cfg".
+[INFO] [Config] Saved config to "/Users/jakoblienteigland/Library/Application Support/RetroArch/config/retroarch.cfg".
+[INFO] [NS] stopping draw observer
+[INFO] === Build =======================================
+[INFO] CPU Model Name: Apple M2 Max
+[INFO] Capabilities: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.22.2
+[INFO] Built: Nov 20 2025
+[INFO] =================================================
+[INFO] [Input] Found input driver: "cocoa".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[INFO] [Core] Loading dynamic libretro core from: "/Users/jakoblienteigland/Documents/snes9x/libretro/snes9x_libretro.dylib".
+[INFO] [Override] Redirecting save file to "/Users/jakoblienteigland/Documents/RetroArch/saves/Snes9x/cputest-full.srm".
+[INFO] [Override] Redirecting save state to "/Users/jakoblienteigland/Documents/RetroArch/states/Snes9x/cputest-full.state".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[INFO] [Environ] GET_CORE_OPTIONS_VERSION.
+[INFO] [Environ] GET_LANGUAGE: "0".
+[INFO] [Environ] SET_CORE_OPTIONS_INTL.
+[INFO] [Environ] SET_CONTROLLER_INFO.
+[INFO] [Environ] GET_LOG_INTERFACE.
+[INFO] [Environ] GET_SYSTEM_DIRECTORY: "/Users/jakoblienteigland/Documents/RetroArch/system".
+[INFO] [Environ] GET_SAVE_DIRECTORY: "/Users/jakoblienteigland/Documents/RetroArch/saves/Snes9x".
+[INFO] [Environ] SET_SUPPORT_ACHIEVEMENTS: yes.
+[INFO] [Environ] SET_PERFORMANCE_LEVEL: 12.
+[INFO] [Content] Loading content file: "/Users/jakoblienteigland/Downloads/snes-tests/cputest/cputest-full.sfc".
+[INFO] [Environ] SET_INPUT_DESCRIPTORS.
+Map_LoROMMap
+[libretro INFO] "65C816 TEST" (NTSC) version 1.0
+ROM: LoROM: 2 Mbit, SRAM: 0 Kbit
+ID: , CRC32: 31ff7f92, Invalid Checksum
+[INFO] [Environ] SET_PIXEL_FORMAT: RGB565.
+[INFO] [SRAM] Skipping SRAM load.
+[INFO] [Core] Version of libretro API: 1, Compiled against API: 1
+[INFO] [Core] Geometry: 256x224, Aspect: 1.333, FPS: 60.10, Sample rate: 32040.00 Hz.
+[INFO] [Video] Set video size to: 897x672.
+[INFO] [GL] Found GL context: "cocoagl".
+[INFO] [GL] Detecting screen resolution: 960x720.
+[INFO] [GL] Vendor: Apple, Renderer: Apple M2 Max.
+[INFO] [GL] Version: 2.1 Metal - 90.5.
+[INFO] [GL] Using resolution 1794x1344.
+[INFO] [GL] Default shader backend found: glsl.
+[INFO] [GL] Using GLSL shader backend.
+[INFO] [GLSL] Checking GLSL shader support...
+[WARN] [GLSL] Stock GLSL shaders will be used.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GL] Using 4 textures.
+[INFO] [GL] Loaded 1 program(s).
+[INFO] [Video] Graphics driver did not initialize an input driver. Attempting to pick a suitable driver.
+[INFO] [Input] Found HID driver: "iohidmanager".
+[INFO] [Input] Found joypad driver: "hid".
+[INFO] [Video] Stored original display mode for restoration
+[INFO] [Video] Found display server: "apple".
+[INFO] [Audio] Set audio input rate to: 31987.32 Hz.
+[INFO] [CoreAudio] Using output sample rate of 48000.0 Hz.
+[INFO] [CoreAudio] Using buffer size of 24576 bytes: (latency = 64 ms).
+[INFO] [Audio] Started synchronous audio driver.
+[INFO] [Display] Found display driver: "gl".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[INFO] [Config] Saved config to "/Users/jakoblienteigland/Library/Application Support/RetroArch/config/retroarch.cfg".
+[INFO] [Playlist] Loading favorites file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_favorites.lpl".
+[INFO] [Playlist] Loading history file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_history.lpl".
+[INFO] [Playlist] Loading history file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_image_history.lpl".
+[INFO] [Playlist] Loading history file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_music_history.lpl".
+[INFO] [Playlist] Written to file: "/Users/jakoblienteigland/Documents/RetroArch/playlists/builtin/content_history.lpl".
+[INFO] [NS] starting draw observer
+[INFO] [Environ] SET_GEOMETRY.
+[INFO] [Video] Set video size to: 897x672.
+[INFO] [GL] Found GL context: "cocoagl".
+[INFO] [GL] Detecting screen resolution: 1794x1344.
+[INFO] [GL] Vendor: Apple, Renderer: Apple M2 Max.
+[INFO] [GL] Version: 2.1 Metal - 90.5.
+[INFO] [GL] Using resolution 1794x1344.
+[INFO] [GL] Default shader backend found: glsl.
+[INFO] [GL] Using GLSL shader backend.
+[INFO] [GLSL] Checking GLSL shader support...
+[WARN] [GLSL] Stock GLSL shaders will be used.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GLSL] Found GLSL vertex shader.
+[INFO] [GLSL] Found GLSL fragment shader.
+[INFO] [GLSL] Linking GLSL program.
+[INFO] [GL] Using 4 textures.
+[INFO] [GL] Loaded 1 program(s).
+[INFO] [Video] Graphics driver did not initialize an input driver. Attempting to pick a suitable driver.
+[INFO] [Input] Found HID driver: "iohidmanager".
+[INFO] [Input] Found joypad driver: "hid".
+[INFO] [Audio] Set audio input rate to: 31987.32 Hz.
+[INFO] [CoreAudio] Using output sample rate of 48000.0 Hz.
+[INFO] [CoreAudio] Using buffer size of 24576 bytes: (latency = 64 ms).
+[INFO] [Audio] Started synchronous audio driver.
+[INFO] [Display] Found display driver: "gl".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[INFO] [Config] Saved config to "/Users/jakoblienteigland/Library/Application Support/RetroArch/config/retroarch.cfg".
+[INFO] [Config] Saved config to "/Users/jakoblienteigland/Library/Application Support/RetroArch/config/retroarch.cfg".
+[INFO] [NS] stopping draw observer
